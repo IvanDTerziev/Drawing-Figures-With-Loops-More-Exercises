@@ -1,0 +1,1 @@
+#### Solution to the exercises from 'Drawing Figures with Loops - More Exercises'.
